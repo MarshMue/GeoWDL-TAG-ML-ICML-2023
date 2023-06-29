@@ -1,3 +1,7 @@
+# GeoWDL-TAG-ML-ICML-2023
+The code provided is meant to support the paper "Geometrically Regularized Wasserstein Dictionary Learning" which will be presented at the [2nd annual TAG-ML workshop at ICML 2023](https://www.tagds.com/events/conference-workshops/tag-ml23). A link to the archival paper will be provided upon publication. 
+
+
 ## How to replicate paper results
 
 It is recommended that you set up a conda environment and install pytorch, numpy, pot, scipy, and tqdm. Specific versions should generally not matter, but we used python 3.9.7
